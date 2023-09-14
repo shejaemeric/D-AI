@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+body {
+  color: black;
+  margin: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: white;
+}
+:root {
+  --toastify-color-progress-light: #08c0b4 !important;
+  --toastify-color-success: #08c0b4 !important;
+}
+
+/* p.MuiTypography-root.MuiTypography-body1.css-1xuvrin-MuiTypography-root {
+  text-shadow: 5px 5px 16px rgb(0 0 0 / 24%);
+}
+
+.css-1k6vdua-MuiTypography-root {
+  text-shadow: -3px 7px 4px rgb(0 0 0 / 28%);
+} */

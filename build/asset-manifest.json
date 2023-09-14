@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f95a2b91.css",
+    "main.js": "/static/js/main.b326c9f2.js",
+    "static/media/hero-hand.png": "/static/media/hero-hand.8ceb4d98eeb67ba976e2.png",
+    "static/media/about-image.png": "/static/media/about-image.c2c6f00cc5749c90d5af.png",
+    "static/media/mobCta-phones.png": "/static/media/mobCta-phones.01b487019563abae0153.png",
+    "static/media/hero-background.webp": "/static/media/hero-background.e7e21ee13f4f67934f64.webp",
+    "static/media/hero-background-phone.webp": "/static/media/hero-background-phone.302aa92eed54607f159d.webp",
+    "static/media/chest.webp": "/static/media/chest.884ba28f4e0601ba7c2a.webp",
+    "static/media/malaria.webp": "/static/media/malaria.a2697989c23835d90dc9.webp",
+    "static/media/leukemia.webp": "/static/media/leukemia.f2742cc440b335d708f8.webp",
+    "static/media/health-tips.webp": "/static/media/health-tips.98ad9adc30466965041d.webp",
+    "static/media/about-background.webp": "/static/media/about-background.2f2128d85a3d22b6ee8d.webp",
+    "static/media/webCta-laptops.webp": "/static/media/webCta-laptops.98600ce0901c26081aeb.webp",
+    "static/media/mammography.webp": "/static/media/mammography.47ca89d9757cbbe9aca7.webp",
+    "static/media/mobCta-background.webp": "/static/media/mobCta-background.697d0e02c9166af23481.webp",
+    "static/media/breast-cancer.webp": "/static/media/breast-cancer.260adfd01f11200a8f1a.webp",
+    "static/media/logo.svg": "/static/media/logo.32602ae79efc4113eef995df2b1d4f83.svg",
+    "static/media/white-logo.svg": "/static/media/white-logo.9c2d0f2d7534cadfca7ecd1bccb14d83.svg",
+    "static/media/scope.svg": "/static/media/scope.1133dfb6415101e1e721060cff590106.svg",
+    "static/media/twitter.svg": "/static/media/twitter.2a8d4edfee16c16b209626af5cbd3794.svg",
+    "static/media/play.svg": "/static/media/play.297587af74fab44de16fc97bb687b36f.svg",
+    "static/media/valuesIcon.svg": "/static/media/valuesIcon.1da8380da9efc7202e4657659c3d558f.svg",
+    "static/media/missionIcon.svg": "/static/media/missionIcon.251a3254086078cefc21da7695324563.svg",
+    "static/media/visionIcon.svg": "/static/media/visionIcon.47b10efb1bfb9c1fece0ddee92251b0c.svg",
+    "static/media/facebook.svg": "/static/media/facebook.0300a181c64a7b602843478e70d0228a.svg",
+    "static/media/apple.svg": "/static/media/apple.8c93617e96199f8dfe3b6bd17bab50ec.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.3bb38be38d52c1e54a89580a078a793b.svg",
+    "static/media/youtube.svg": "/static/media/youtube.32708fdf5be88a04f4361418986fe721.svg",
+    "index.html": "/index.html",
+    "static/media/downloadIcon.svg": "/static/media/downloadIcon.559617ca679f22033a8a75f85f6438bd.svg",
+    "main.f95a2b91.css.map": "/static/css/main.f95a2b91.css.map",
+    "main.b326c9f2.js.map": "/static/js/main.b326c9f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f95a2b91.css",
+    "static/js/main.b326c9f2.js"
+  ]
+}
